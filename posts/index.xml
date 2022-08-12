@@ -5,14 +5,14 @@
     <link>https://www.sector7e.com/posts/</link>
     <description>Recent content in Posts on Sector7e</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Mar 2022 16:53:36 -0700</lastBuildDate><atom:link href="https://www.sector7e.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Aug 2022 16:53:36 -0700</lastBuildDate><atom:link href="https://www.sector7e.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>First Post After Hugo Update</title>
       <link>https://www.sector7e.com/posts/my-first-post/</link>
-      <pubDate>Sun, 13 Mar 2022 16:53:36 -0700</pubDate>
+      <pubDate>Thu, 11 Aug 2022 16:53:36 -0700</pubDate>
       
       <guid>https://www.sector7e.com/posts/my-first-post/</guid>
-      <description>The Sector 7e blog is now transitioning over to Hugo, and I will be working on transferring over the old content soon.</description>
+      <description>The Sector 7e blog is now transitioning over to Hugo, and I will be working on transferring over the old content soon. The old blog relied on WordPress which is a common target for hackers and bots to compromise or deface for malicious reasons, so I decided this was a good opportunity to learn the static site generator framework known as Hugo. Because the blog will be generated as a static HTML site with many of the same features as WordPress, but it will be less likely to be compromised than a dynamic content management system that contains a dynamic web application that can execute code and a MySQL database.</description>
     </item>
     
   </channel>
